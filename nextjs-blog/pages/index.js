@@ -14,7 +14,6 @@ export default function Home({ allPostsData }) {
       <section className={utilStyles.headingMd}>
         <p>こんにちは！エンジニア1年目のれんです！</p>
         <p>ReactNativeやNext.jsの開発をしています。</p>
-        <p>一流のエンジニアを目指して修行中です！</p>
         <br />
         <p>
           ご連絡は
